@@ -1,7 +1,6 @@
 # CS-290-LLMs
-A repo for CS 290
+A repo for CS 290 - Data Mining
 
-test2
-
-This is me testing if git is working
+In this class we built a large language model from scratch based on GPT 2. 
+The class was based on the book: Build a Large Language Model (From Scratch) by Sebastian Raschka
 
